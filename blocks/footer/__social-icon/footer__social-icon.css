@@ -2,7 +2,6 @@
   display: flex;
   width: 16px;
   height: 16px;
-  margin-bottom: 10px;
-  margin-right: 5px;
+  margin: auto 5px auto 0;
   text-align: center;
 }

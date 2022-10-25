@@ -3,9 +3,9 @@
   width: 388px;
   left: 64px;
   bottom: 30px;
-  height: auto;
   line-height: 25px;
   font-size: 18px;
-  font-weight: 100;
+  font-weight: normal;
   z-index: 1;
+  margin: 0;
 }

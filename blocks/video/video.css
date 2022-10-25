@@ -1,4 +1,4 @@
 .video {
-  height: 450px;
-  z-index: 3;
+  position: relative;
+  top: 60px;
 }
