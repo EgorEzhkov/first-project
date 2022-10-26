@@ -3,7 +3,8 @@
   font-size: 120px;
   font-weight: 600;
   width: 648px;
-  margin: 100px auto 70px auto;
+  margin: 0px auto 70px auto;
+  padding-top: 100px;
   display: flex;
   justify-content: center;
   text-align: center;
